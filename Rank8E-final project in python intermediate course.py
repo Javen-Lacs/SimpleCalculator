@@ -45,4 +45,4 @@ class Calculator:
         self.equation.set(result)
 root = Tk()
 Calculator = Calculator(root)
-root.mainloop()
+root.mainloop() 
